@@ -3,7 +3,7 @@
 <h3 align="center">I am a Mechatronics Engineer. <br/>A passionate Full Stack Spring/ReactJs Developer </h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+  <img width="460" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 - 🌱 I’m currently learning **Java, Spring, React-JS**
