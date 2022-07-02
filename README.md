@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oguzhan KAYMAKCI</h1>
-<h3 align="center">A passionate Full Stack Spring/ReactJs Developer</h3>
+
+<h3 align="center">I am a Mechatronics Engineer. <br/>A passionate Full Stack Spring/ReactJs Developer </h3>
+
+<p align="center">
+  <img width="460" height="300" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+</p>
 
 - 🌱 I’m currently learning **Java, Spring, React-JS**
 
